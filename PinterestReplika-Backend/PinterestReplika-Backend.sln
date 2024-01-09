@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestReplika-Backend", "PinterestReplika-Backend\PinterestReplika-Backend.csproj", "{3EBBC4B5-FDA4-4905-9B02-4E24B3B61008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestReplika-Core", "PinterestReplika-Core\PinterestReplika-Core.csproj", "{3A906784-BE11-4FCA-88B6-08DC49D9560C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestReplika-DataAccess", "PinterestReplika-DataAccess\PinterestReplika-DataAccess.csproj", "{7D90CAA7-014C-4403-BAD7-F94299E491ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestReplika-Repositories", "PinterestReplika-Services\PinterestReplika-Repositories.csproj", "{CA7FD086-FE51-4A2D-8689-AFAA42B7BB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBBC4B5-FDA4-4905-9B02-4E24B3B61008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBBC4B5-FDA4-4905-9B02-4E24B3B61008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBBC4B5-FDA4-4905-9B02-4E24B3B61008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBBC4B5-FDA4-4905-9B02-4E24B3B61008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A906784-BE11-4FCA-88B6-08DC49D9560C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A906784-BE11-4FCA-88B6-08DC49D9560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A906784-BE11-4FCA-88B6-08DC49D9560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A906784-BE11-4FCA-88B6-08DC49D9560C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D90CAA7-014C-4403-BAD7-F94299E491ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D90CAA7-014C-4403-BAD7-F94299E491ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D90CAA7-014C-4403-BAD7-F94299E491ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D90CAA7-014C-4403-BAD7-F94299E491ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7FD086-FE51-4A2D-8689-AFAA42B7BB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7FD086-FE51-4A2D-8689-AFAA42B7BB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7FD086-FE51-4A2D-8689-AFAA42B7BB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7FD086-FE51-4A2D-8689-AFAA42B7BB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A626361F-6274-4A4D-83F6-9ECE8781B679}
+	EndGlobalSection
+EndGlobal
